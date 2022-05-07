@@ -1,0 +1,2 @@
+# BManager
+Manages budget/expenses
